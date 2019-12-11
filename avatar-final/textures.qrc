@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/">
+        <file>woman.jpg</file>
+        <file>woman_green.jpg</file>
+        <file>woman_blue.jpg</file>
+        <file>woman_red.jpg</file>
+        <file>man.BMP</file>
+        <file>man_green.BMP</file>
+        <file>man_red.BMP</file>
+        <file>man_blue.BMP</file>
+        <file>manp_blue.BMP</file>
+        <file>manp_brown.BMP</file>
+        <file>womanp_blue.jpg</file>
+        <file>womanp_brown.jpg</file>
+        <file>man_blue2.BMP</file>
+        <file>man_green2.BMP</file>
+        <file>man_red2.BMP</file>
+    </qresource>
+</RCC>
